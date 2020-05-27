@@ -1,4 +1,5 @@
 <?php
+/*Do folderu wordpress/wp-content/plugins*/
 /*
 *Plugin Name: Moja wtyczka
 *Description: opis
