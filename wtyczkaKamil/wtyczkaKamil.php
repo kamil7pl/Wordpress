@@ -14,6 +14,7 @@ function moja_wtyczka(){
 }
 add_action('admin_menu', 'moja_wtyczka', '');
 function yy_glowna(){
-	echo 2+15;
+	return 2+15;
 }
+add_shortcode('krotki_kod', 'yy_glowna');
 ?>
